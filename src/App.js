@@ -7,6 +7,7 @@ import {
   InfoWindow
 } from "react-google-maps";
 import stadiumData from "./stadiumsNFL";
+import "./styles.css";
 
 function Map() {
   const [selectedLocation, setSelectedLocation] = useState(null);
@@ -28,6 +29,7 @@ function Map() {
 
       {selectedLocation && (
         <InfoWindow
+          className="infocard"
           position={{
             lat: selectedLocation.geometry.coordinates[1],
             lng: selectedLocation.geometry.coordinates[0]
@@ -59,6 +61,7 @@ function Map() {
                 </li>
               ) : null}
             </ul>
+            <img className="stadiums" src={selectedLocation.fields.image} />
           </div>
         </InfoWindow>
       )}

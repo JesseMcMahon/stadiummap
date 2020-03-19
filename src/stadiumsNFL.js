@@ -3,6 +3,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "cee52a568156eae9505fe06f79f86b361ef91792",
     fields: {
+      image:
+        "https://static01.nyt.com/images/2010/11/18/sports/STADIUM1/STADIUM1-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
       fema_regio: 3.0,
       reliabilit: "High",
       county: "Philadelphia",
@@ -43,6 +45,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "0c44fd430240bd410669166c8e9082c55a6eb513",
     fields: {
+      image:
+        "https://www.gannett-cdn.com/-mm-/38b2e6935d2caa4e96e963348fcbb385c228e98b/c=6-0-2994-1688/local/-/media/2016/11/07/USATODAY/USATODAY/636141352176384999-c01-stadium-23.jpg?width=2988&height=1688&fit=crop&format=pjpg&auto=webp",
       fema_regio: 9.0,
       reliabilit: "High",
       county: "San Diego",
@@ -83,6 +87,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "a49c65f4e85e425af858ab443d67ce953011b4f6",
     fields: {
+      image:
+        "https://www.wfae.org/sites/wfae/files/styles/medium/public/201809/171218_stadium_600x360_1.jpg",
       fema_regio: 4.0,
       reliabilit: "High",
       county: "Mecklenburg",
@@ -122,6 +128,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "21e7d6a0334097e12103c2d7a78f7aae47d047d3",
     fields: {
+      image:
+        "https://usatjaguarswire.files.wordpress.com/2017/10/usatsi_9536939.jpg?w=1000&h=600&crop=1",
       fema_regio: 4.0,
       reliabilit: "High",
       county: "Duval",
@@ -162,6 +170,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "acaab7736b25dbc81055f02ceb96041ea791aab6",
     fields: {
+      image:
+        "https://i.pinimg.com/originals/af/b6/f6/afb6f6ded42403d78f7d9350eb6b927e.jpg",
       fema_regio: 5.0,
       reliabilit: "High",
       county: "Cook",
@@ -189,7 +199,7 @@ const stadiumData = [
       geo_point_2d: [41.862500067497876, -87.61676997620833],
       longitude: "-87.61677000000",
       conference: "National",
-      team: "Chicago Bers"
+      team: "Chicago Bears"
     },
     geometry: {
       type: "Point",
@@ -201,6 +211,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "2d9db42ea4635e8f7de19dd55055e171493bcfae",
     fields: {
+      image:
+        "https://www.thekraftgroup.com/wp-content/uploads/1400x733_KC090717_TreyMahoney0841.jpg",
       fema_regio: 1.0,
       reliabilit: "High",
       county: "Norfolk",
@@ -242,6 +254,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "b9fd787190f25e196fc78a718cd9eaa903969cf8",
     fields: {
+      image:
+        "https://xilica.com/wp-content/uploads/2017/08/Buffalo_1-1200x560.jpg",
       fema_regio: 2.0,
       reliabilit: "High",
       county: "Erie",
@@ -260,7 +274,7 @@ const stadiumData = [
       address1: "1 Bills Drive",
       subsector: "Sports Arena",
       primary_ty: "NFL",
-      name1: "Ralph Wilson Stadium",
+      name1: "New Era Field",
       geo_shape: {
         type: "Point",
         coordinates: [-78.78679001883404, 42.77379002165435]
@@ -281,6 +295,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "18cabef2a6fc4f97daf6cee38c4ee953298cf0f0",
     fields: {
+      image:
+        "https://3o15h033zmpwracwx2i00rqx-wpengine.netdna-ssl.com/wp-content/uploads/2015/10/raymond-james-stadium.jpg",
       fema_regio: 4.0,
       reliabilit: "High",
       county: "Hillsborough",
@@ -322,6 +338,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "2be18fff3d3b92030ec91bbe0f3a619bde959bd8",
     fields: {
+      image:
+        "https://uploads.visitseattle.org/2018/10/26101908/Seahawks-Aerial-008-Website.jpg",
       fema_regio: 10.0,
       reliabilit: "High",
       county: "King",
@@ -362,6 +380,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "2c453332d4240ec71639594550cd223109270786",
     fields: {
+      image:
+        "https://thestadiumreviews.com/wp-content/uploads/2020/01/Hard-Rock-Stadium-Parking.jpg",
       fema_regio: 4.0,
       reliabilit: "High",
       county: "Dade",
@@ -402,6 +422,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "d79b97d57f17a116e2210d2b646bf70b5089306d",
     fields: {
+      image:
+        "https://www.stadiumsofprofootball.com/wp-content/uploads/2016/07/lucas16_top.jpg",
       fema_regio: 5.0,
       reliabilit: "High",
       county: "Marion",
@@ -440,6 +462,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "b9ee8061e7f6624778942ee898cc2ce2cac5c93b",
     fields: {
+      image:
+        "https://content.fortune.com/wp-content/uploads/2016/08/vikings_bowl-copy.jpg",
       fema_regio: 5.0,
       reliabilit: "High",
       county: "Hennepin",
@@ -458,7 +482,7 @@ const stadiumData = [
       address1: "900 South 5th Street",
       subsector: "Sports Arena",
       primary_ty: "NFL",
-      name1: "Hubert H. Humphrey Metrodome",
+      name1: "U.S. Bank Stadium",
       geo_shape: {
         type: "Point",
         coordinates: [-93.25847997201066, 44.974010063702735]
@@ -481,6 +505,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "482747e94387e0b1d3a0e93b6bbd1d64ffe2ee7a",
     fields: {
+      image:
+        "https://images.adsttc.com/media/images/5a0e/f0fe/b22e/382f/e000/00e9/newsletter/Falcon-66.jpg?1510928617",
       fema_regio: 4.0,
       reliabilit: "High",
       county: "Fulton",
@@ -499,7 +525,7 @@ const stadiumData = [
       address1: "1 Georgia Dome Drive NW",
       subsector: "Sports Arena",
       primary_ty: "NFL",
-      name1: "Georgia Dome",
+      name1: "Mercedes-Benz Stadium",
       geo_shape: {
         type: "Point",
         coordinates: [-84.40121004538905, 33.757349923637776]
@@ -522,6 +548,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "fe5eeaea1ead2150f062cd64ae1798d435415e89",
     fields: {
+      image:
+        "https://www.discoverclermont.com/wp-content/uploads/100415-NFL-Cincinnati-Bengals-Paul-Brown-Stadium-pi-ssm.vresize.1200.675.high_.1.jpg",
       fema_regio: 5.0,
       reliabilit: "High",
       county: "Hamilton",
@@ -561,6 +589,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "eb26e483c3c9819e6e1e6f154eb7d7a629a2a165",
     fields: {
+      image:
+        "https://www.wheretraveler.com/sites/default/files/styles/promoted_image/public/met_life_stadium_copy.jpg?itok=FBg8CGGH&timestamp=1516740185",
       fema_regio: 2.0,
       reliabilit: "High",
       county: "Bergen",
@@ -600,6 +630,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "aa70c9347a3a60b4c0f8144d718db8e8d94e1ba5",
     fields: {
+      image:
+        "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/packers/fwnb8tgzn4aafgipks1w",
       fema_regio: 5.0,
       reliabilit: "High",
       county: "Brown",
@@ -639,6 +671,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "b6b73850e7110b440b11ba18a3d5d18c4a4df399",
     fields: {
+      image:
+        "https://www.athleticbusiness.com/images/Blogs/2016/Jason/Aug/Screen%20Shot%202016-08-30%20at%202.31.06%20PM.png",
       fema_regio: 6.0,
       reliabilit: "High",
       county: "Harris",
@@ -657,7 +691,7 @@ const stadiumData = [
       address1: "8299 Kirby Drive",
       subsector: "Sports Arena",
       primary_ty: "NFL",
-      name1: "Reliant Stadium",
+      name1: "NRG Stadium",
       geo_shape: {
         type: "Point",
         coordinates: [-95.41091997803119, 29.684929940564473]
@@ -678,6 +712,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "128aadfda0639d67c91fcd4ec25a7b0bdab2346c",
     fields: {
+      image:
+        "https://www.stadiumsofprofootball.com/wp-content/uploads/2016/09/edjones_top.jpg",
       fema_regio: 7.0,
       reliabilit: "High",
       county: "Saint Louis City",
@@ -717,6 +753,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "9b62f66ac660ae506997b822397901d46e04031f",
     fields: {
+      image:
+        "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/ravens/vunayexpyewvquzew6ce",
       fema_regio: 3.0,
       reliabilit: "High",
       county: "Baltimore City",
@@ -756,6 +794,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "cb37783270de21408007d759461ec546be366524",
     fields: {
+      image:
+        "https://thespun.com/wp-content/uploads/2018/05/GettyImages-845379240.jpg",
       fema_regio: 5.0,
       reliabilit: "High",
       county: "Wayne",
@@ -796,6 +836,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "3f14cde417792d7c01f77c8c7d45cdfeddfa24b2",
     fields: {
+      image:
+        "https://i.pinimg.com/600x315/94/72/40/947240a05c53ea7e80c95b9499b345e9.jpg",
       fema_regio: 9.0,
       reliabilit: "High",
       county: "Maricopa",
@@ -835,6 +877,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "1a73ff4f1458465696950205dd0c6b0eb8fb4cb4",
     fields: {
+      image:
+        "https://fohonline.com/site/wp-content/uploads/clevelandbrownsstadium.jpg",
       fema_regio: 5.0,
       reliabilit: "High",
       county: "Cuyahoga",
@@ -853,7 +897,7 @@ const stadiumData = [
       address1: "100 Alfred Lerner Way",
       subsector: "Sports Arena",
       primary_ty: "NFL",
-      name1: "Cleveland Browns Stadium",
+      name1: "FirstEnergy Stadium",
       geo_shape: {
         type: "Point",
         coordinates: [-81.69962006472832, 41.50617997764925]
@@ -874,6 +918,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "9842617854ee43125ad0994d9e9783bdd9e74e36",
     fields: {
+      image:
+        "https://www.reviewjournal.com/wp-content/uploads/2019/02/11832371_web1_raidersinoaklandweb.jpg",
       fema_regio: 9.0,
       reliabilit: "High",
       county: "Alameda",
@@ -914,6 +960,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "1d86108be621a37ce2b3ab4875083566c7c08c68",
     fields: {
+      image:
+        "https://www.stadiumsofprofootball.com/wp-content/uploads/2016/07/levis16_top3.jpg",
       fema_regio: 9.0,
       reliabilit: "High",
       county: "San Francisco",
@@ -953,6 +1001,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "df45f9fd9ab151a4808252543be04dc177e5656e",
     fields: {
+      image:
+        "https://cdn.nashvillepost.com/files/base/scomm/nvp/image/2019/03/16x9/640w/NissanStadium_Skyline_GI_.5c7d608a9c2fe.jpg",
       fema_regio: 4.0,
       reliabilit: "High",
       county: "Davidson",
@@ -993,6 +1043,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "dae0180f6c4107dbc52ea4174d0e331e135d8e74",
     fields: {
+      image:
+        "https://development-strategies.com/wp-content/uploads/2015/02/Kansas-City-Missouri-Kansas-City-Chiefs-and-Arrowhead-Stadium.jpg",
       fema_regio: 7.0,
       reliabilit: "High",
       county: "Jackson",
@@ -1032,6 +1084,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "b3f5cc38125e5a28d0d704217913ad88991fc4da",
     fields: {
+      image:
+        "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2014%2F0519%2Fnfl_u_heinzts_1296x729.jpg",
       fema_regio: 3.0,
       reliabilit: "High",
       county: "Allegheny",
@@ -1072,6 +1126,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "64070ac590b7f62a72d29122425af804a47506cf",
     fields: {
+      image:
+        "https://res.cloudinary.com/nflclubs/image/private/t_editorial_landscape_12_desktop/redskins/fg0rhko4dqe28ojms1ch.jpg",
       fema_regio: 3.0,
       reliabilit: "High",
       county: "Prince George's",
@@ -1111,6 +1167,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "e80ed1011ff61545222f20ed9bcad29f43e58f16",
     fields: {
+      image:
+        "https://www.stadiumsofprofootball.com/wp-content/uploads/2016/07/sports16_top.jpg",
       fema_regio: 8.0,
       reliabilit: "High",
       county: "Denver",
@@ -1151,6 +1209,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "bb9e7a8c6e5b57f863029203999e7fe3877b50ed",
     fields: {
+      image:
+        "https://www.lionheart-designs.com/inventory/jigsaw%20puzzles/Sports/New%20Orleans%20Saints%20jigsaw%20puzzle%2091410.jpg",
       fema_regio: 6.0,
       reliabilit: "High",
       county: "Orleans",
@@ -1192,6 +1252,8 @@ const stadiumData = [
     datasetid: "stadiums_nfl",
     recordid: "40381e71403a9db4efbc04d37ed47b2b5e1c1b70",
     fields: {
+      image:
+        "https://admin.hksinc.com/wp-content/uploads/2019/09/ATT_economic.jpg",
       fema_regio: 6.0,
       reliabilit: "High",
       county: "Tarrant",
